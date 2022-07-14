@@ -1,1 +1,1 @@
-# ORM_Querying
+# Django Querying lab 
